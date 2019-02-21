@@ -1,0 +1,154 @@
+[2019-02-09T15:43:57.784] [ERROR] cheese - ReferenceError: indexAction is not defined
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:8:13
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (C:\document\frontEnd\京城一灯\note\0204homework_second_week\middleware\errorHandler.js:14:19)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (C:\document\frontEnd\京城一灯\note\0204homework_second_week\middleware\errorHandler.js:5:23)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-static@5.0.0@koa-static\index.js:53:15)
+[2019-02-09T16:30:03.014] [ERROR] cheese - ReferenceError: indexAction is not defined
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:8:13
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (C:\document\frontEnd\京城一灯\note\0204homework_second_week\middleware\errorHandler.js:14:19)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (C:\document\frontEnd\京城一灯\note\0204homework_second_week\middleware\errorHandler.js:5:23)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-static@5.0.0@koa-static\index.js:53:15)
+[2019-02-13T23:25:54.229] [ERROR] cheese - TypeError: URLSearchParams is not a constructor
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:31:24
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+[2019-02-13T23:26:44.306] [ERROR] cheese - TypeError: URLSearchParams is not a constructor
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:31:24
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+[2019-02-13T23:35:40.399] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:35:41.222] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:35:41.556] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:35:41.783] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:36:26.800] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:36:26.984] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:36:35.282] [ERROR] cheese - ReferenceError: POST is not defined
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:40:20)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+[2019-02-13T23:39:22.185] [ERROR] cheese - ReferenceError: params is not defined
+    at SafeRequest.fetch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\utils\SafeRequest.js:14:24)
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:39:28)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+[2019-02-13T23:39:23.718] [ERROR] cheese - ReferenceError: params is not defined
+    at SafeRequest.fetch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\utils\SafeRequest.js:14:24)
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:39:28)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+[2019-02-13T23:39:24.617] [ERROR] cheese - ReferenceError: params is not defined
+    at SafeRequest.fetch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\utils\SafeRequest.js:14:24)
+    at Index.saveData (C:\document\frontEnd\京城一灯\note\0204homework_second_week\models\index.js:39:28)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\controllers\IndexController.js:34:36
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:186:18)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:196:14)
+    at Router._lookup (C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:198:12)
+    at C:\document\frontEnd\京城一灯\note\0204homework_second_week\node_modules\_koa-simple-router@0.2.0@koa-simple-router\index.js:138:21

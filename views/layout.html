@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet"href="https://cdn.staticfile.org/twitter-bootstrap/4.2.1/css/bootstrap.css"/>
+    <link rel="stylesheet"href="/styles/common.css"/>
+    {% block head %}{% endblock %}
+    <!-- block head的位置是留给CSS -->
+</head>
+<body>
+    {% include "../components/common/navigation.html" %}
+        {% block content %}{% endblock %}
+    <!-- block content的位置是留给html的 -->
+    <script src = "/scripts/common.js"></script>
+    {% block scripts %}{% endblock %}
+    <!-- block scripts的位置是留给js的 -->
+</body>
+</html>

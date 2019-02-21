@@ -1,0 +1,17 @@
+<div class="list">
+    <!-- <h3>[[data]]</h3> -->
+    <table class="table table-striped table-bordered">
+        <tr>
+            <th>序号</th>
+            <th>书名</th>
+            <th>作者</th>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td>[[item.id]]</td>
+            <td>[[item.title]]</td>
+            <td>[[item.author]]</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
